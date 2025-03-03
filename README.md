@@ -6,7 +6,7 @@ Provide a brief description of your project here. Explain what it does and why i
 
 Requirements
 
-Python 3.11.4 (Required)
+Python 3.11.4 (Required) or any
 
 Any additional dependencies (list them here)
 
@@ -14,7 +14,7 @@ Installation
 
 Download and Install Python 3.11.4
 
-If you do not have Python 3.11.4 installed, you can download it from the official Python website:https://www.python.org/downloads/release/python-3114/
+If you do not have Python 3.11.4 installed, you can download it from the official Python website:https://www.python.org/downloads/release/python-3114/ or any works
 
 Clone or Download the Repository
 
