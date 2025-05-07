@@ -1,5 +1,9 @@
-The Gif Finder
+💙 XWorm 4.0 Modded + RCE Patched
+Patches the RCE Exploit in XWorm + Many QOL Updates
 
-go to realeases https://github.com/VisionWasHere/The-Gif-Finder/releases/tag/discord
+Optimized networking 🌐
+Patched RCE Exploits 🛠️
+Improved Hidden VNC 🆕
 
-if you dont see a gui or some shit turn off real time protection
+https://github.com/user-attachments/assets/ccb5b90c-40f0-4428-9af0-8011dd28f048
+
